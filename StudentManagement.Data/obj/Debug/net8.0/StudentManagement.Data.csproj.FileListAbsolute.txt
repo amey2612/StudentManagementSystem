@@ -13,3 +13,4 @@ C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Data\obj\Debug\net8.0
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\refint\StudentManagement.Data.dll
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.pdb
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\ref\StudentManagement.Data.dll
+C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.sourcelink.json

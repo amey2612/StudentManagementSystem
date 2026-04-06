@@ -166,3 +166,6 @@ C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Tests\obj\Debug\net8.
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Tests\obj\Debug\net8.0\StudentManagement.Tests.pdb
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Tests\obj\Debug\net8.0\StudentManagement.Tests.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Tests\obj\Debug\net8.0\ref\StudentManagement.Tests.dll
+C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Tests\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Tests\bin\Debug\net8.0\Moq.dll
+C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.Tests\obj\Debug\net8.0\StudentManagement.Tests.sourcelink.json

@@ -89,3 +89,4 @@ C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.API\obj\Debug\net8.0\
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.API\obj\Debug\net8.0\StudentManagement.API.pdb
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.API\obj\Debug\net8.0\StudentManagement.API.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.API\obj\Debug\net8.0\ref\StudentManagement.API.dll
+C:\Users\ADMIN\Desktop\StudentManagement\StudentManagement.API\obj\Debug\net8.0\StudentManagement.API.sourcelink.json
