@@ -567,4 +567,4 @@ MIT License - See LICENSE file for details
 
 ---
 
-**Built with ❤️ by Zest India IT | Version 1.0.0**
+** Version 1.0.0**
